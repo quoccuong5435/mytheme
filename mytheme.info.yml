@@ -12,12 +12,13 @@ libraries:
 
 regions:
   header: Header
-  hightlighted: Highlighted
   help: Help
+  front: Front Page Block
+  hightlighted: Highlighted
   content: Content
   sidebar_first: Left sidebar
   sidebar_second: Right sidebar
-  front: Front Page Block
+  
   footer: Footer
   page_top: Page top
   page_bottom: Page bottom
